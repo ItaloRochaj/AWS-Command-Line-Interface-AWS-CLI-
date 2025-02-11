@@ -9,7 +9,7 @@ Nesta atividade, você instala e configura o AWS CLI em uma instância do Red Ha
 
 Durante esta atividade, você estabelece uma conexão Secure Shell (SSH) com a instância, configura a instalação com uma chave de acesso para conectar-se a uma conta da AWS e pratica o uso da AWS CLI para interagir com o AWS Identity and Access Management (IAM).
 
-![Arquitetura inicial](https://github.com/ItaloRochaj/AWS-Command-Line-Interface-AWS-CLI-/blob/main/Captura%20de%20tela%20de%202025-02-11%2009-42-42.png)
+![Arquitetura inicial](https://github.com/ItaloRochaj/AWS-Command-Line-Interface-AWS-CLI-/blob/main/project%20image/Captura%20de%20tela%20de%202025-02-11%2009-42-42.png)
 
 ### Objetivos
 Após concluir este laboratório, você será capaz de:
